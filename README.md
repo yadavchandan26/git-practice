@@ -1,4 +1,3 @@
-﻿#my first file
-learning git 
-"hello"
-print(9+6)
+# Age 
+age=int(input("enter the age:")
+print("adult") if age>=18 else print("not an adult")
